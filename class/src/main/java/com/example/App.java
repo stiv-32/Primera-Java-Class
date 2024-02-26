@@ -1,6 +1,6 @@
 package com.example;
 
-public class Main {
+public class App {
     public static void main(String[] args) {
 
         Person person1 = new Person("Jaro", "Diaz", "12341234", 1987, "Colombia",'H');
